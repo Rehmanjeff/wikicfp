@@ -32,7 +32,7 @@ send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, 
 <EnumValue value="30" display_value="30 Minutes"/>
 <EnumValue value="60" display_value="1 Hour"/>
 </UserPref>
-<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="Upcoming Conferences"/>
+<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="HCI Conferences"/>
 <UserPref name="feed1" display_name="Feed URL:" datatype="string" default_value="http://www.wikicfp.com/cfp/rss?list=85140"/>
 <UserPref name="feedname8" display_name="Name:" datatype="string" default_value=""/>
 <UserPref name="feed8" display_name="Feed URL:" datatype="string" default_value=""/>
