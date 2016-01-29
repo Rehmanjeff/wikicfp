@@ -57,5 +57,3 @@ getString("feed3")); var f4 = _trim(prefs.getString("feed4")); var n1 = _trim(pr
 ]]>
 </Content>
 </Module>
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security C
