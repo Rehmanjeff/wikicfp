@@ -4,12 +4,9 @@
 This Gadget Design & Code: iG Lab
 All subsequent code and resources used are proprietary of "iG-Lab" unless directly stated otherwise.
 Copyright (C) 2008 iG Lab.
-
       UNAUTHORISED COPY OF THE CODE 
 STRICTLY FORBIDDEN AND IS A DISCIPLINARY OFFENCE.  
-
 can mail on : raj.janorkar+news@gmail.com
-
 This work is licensed under the Creative Commons Attribution-Non Commercial-NoDerivs 2.5 License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/2.5/ or
 send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
@@ -35,8 +32,8 @@ send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, 
 <EnumValue value="30" display_value="30 Minutes"/>
 <EnumValue value="60" display_value="1 Hour"/>
 </UserPref>
-<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="HCI Conferences"/>
-<UserPref name="feed1" display_name="Feed URL:" datatype="string" default_value="http://www.wikicfp.com/cfp/servlet/event.showlist?lownerid=85140&ltype=w"/>
+<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="Upcoming Conferences"/>
+<UserPref name="feed1" display_name="Feed URL:" datatype="string" default_value="http://www.wikicfp.com/cfp/rss?list=85140"/>
 <UserPref name="feedname8" display_name="Name:" datatype="string" default_value=""/>
 <UserPref name="feed8" display_name="Feed URL:" datatype="string" default_value=""/>
 <UserPref name="feedname9" display_name="Name:" datatype="string" default_value=""/>
@@ -60,3 +57,5 @@ getString("feed3")); var f4 = _trim(prefs.getString("feed4")); var n1 = _trim(pr
 ]]>
 </Content>
 </Module>
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security C
