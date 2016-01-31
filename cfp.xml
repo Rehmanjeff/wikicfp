@@ -11,7 +11,7 @@ This work is licensed under the Creative Commons Attribution-Non Commercial-NoDe
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/2.5/ or
 send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
 -->
-<ModulePrefs title="USA Today" directory_title="USA Today" description="Live breaking news feeds from USA Today. Features the latest national, business, sport, entertainment, travel, lifestyle, finance and technology news. Edit the gadget settings to view between 3 to 9 Headlines in each Category. Choose Refresh timing also can change the Feed URL and Tab Name." title_url="http://www.igoogleportal.com" author="USA Today" author_email="raj.janorkar+news@gmail.com" screenshot="http://www.igoogleportal.com/gadget/googlecode/news/images/hindustan_times_screen.jpg" thumbnail="http://www.igoogleportal.com/gadget/googlecode/news/images/usa_today_thumb.jpg" height="300" scrolling="false" singleton="false" category="news" category2="celebpicks">
+<ModulePrefs title="Wikicfp" directory_title="wikicfp" description="Upcoming conference related to research" title_url="http://www.igoogleportal.com" author="USA Today" author_email="raj.janorkar+news@gmail.com" screenshot="blob:https%3A//drive.google.com/8ee2f2cc-0385-4a53-a5fd-d185efa7a4f1" thumbnail="http://www.ijaers.com/images/wikicfp-ijaers.png" height="300" scrolling="false" singleton="false" category="news" category2="celebpicks">
 <Require feature="dynamic-height"/>
 <Require feature="setprefs"/>
 <Require feature="tabs"/>
@@ -32,8 +32,8 @@ send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, 
 <EnumValue value="30" display_value="30 Minutes"/>
 <EnumValue value="60" display_value="1 Hour"/>
 </UserPref>
-<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="Upcoming Conferences Computer Sciences"/>
-<UserPref name="feed1" display_name="Feed URL:" datatype="string" default_value="http://www.wikicfp.com/cfp/rss?cat=computer%20science"/>
+<UserPref name="feedname1" display_name="Name:" datatype="string" default_value="Upcoming Conferences"/>
+<UserPref name="feed1" display_name="Feed URL:" datatype="string" default_value="http://www.wikicfp.com/cfp/rss?list=85140"/>
 <UserPref name="feedname9" display_name="Name:" datatype="string" default_value=""/>
 <UserPref name="feed9" display_name="Feed URL:" datatype="string" default_value=""/>
 <UserPref name="feedname10" display_name="Name:" datatype="string" default_value=""/>
